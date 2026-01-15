@@ -1,8 +1,8 @@
 # Library-Management-System
-I made this project for my University Fifth Semister, this may help university stiudents to learn the web development at next level
+I made this project for my University Fifth Semester, this may help university stiudents to learn the web development at next level
 
 
-#How To Exe
+# How To Exe
 
 ```bash
 git clone https://github.com/TatarMogol/Library-Management-System.git
